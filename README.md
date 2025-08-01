@@ -53,10 +53,6 @@ Edit
 streamlit run app.py
 Open http://localhost:8501 in your browser.
 
-🛑 Important
-Never push .env files to GitHub (keep API keys secret)
-
-Add .env to your .gitignore file
 
 🧪 Example Usage (optional)
 Upload your PDF resume and get AI-generated insights for improvement directly in your browser!
