@@ -41,6 +41,6 @@ streamlit run app.py
 Open http://localhost:8501 in your browser.
 
 
-🧪 Example Usage (optional)
+🧪 Example Usage 
 Upload your PDF resume and get AI-generated insights for improvement directly in your browser!
 
